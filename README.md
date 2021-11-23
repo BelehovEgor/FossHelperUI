@@ -17,9 +17,11 @@ And lastly launching the project. Also these possibilities should be available f
 ### Implementation
 
 This will be a desktop application developed using WPF. The configuration file mentioned earlier will be local in the first iteration, in the future it is planned to load it from a remote repository. 
-It is planned to use the git application to work with repositories because the pool of scheduled tasks does not require complex commands (now checkout, pull, stash). 
-All information will be presented in a table. One line in it corresponds to one project.  To select the necessary settings, whether branch selection or build mods, there will be a ComboBox with an available selection. In the case of branch selection, a local branch change will also be made. For each operation, buttons are provided to perform it. For joint operations will be used CheckBoxes, after selecting them it will be possible to perform operations (using button in header of table) simultaneously for several projects.
-
+It is planned to use the git application to work with repositories because the pool of scheduled tasks does not require complex commands. List of commands that are planned to be used are : branch, checkout, pull, stash. 
+All information will be presented in a table. One line in it corresponds to one project. 
+To select the necessary branch there will be a ComboBox with an available selection. After branch selection, SourceExplorer will check if the branch is presented locally. If not - it will perform a pull operation. 
+Also, there will be a ComboBox for build mode.
+For each operation, buttons are provided to perform it. If action is required to be performed on multiple projects, user must click on corresponding CheckBoxes and then on an action button.
 ### Information security
 
 Authorization in the version control system will be implemented via open auth.
