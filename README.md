@@ -33,6 +33,7 @@ All information will be presented in a table. One line in it corresponds to one 
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/fulltable.png)
 
 To select the necessary branch there will be a ComboBox with an available selection. After branch selection, SourceExplorer will check if the branch is presented locally. If not - it will perform a pull operation. 
+![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/branchselection.png)
 Also, there will be a ComboBox for build mode.
 For each operation, buttons are provided to perform it. If action is required to be performed on multiple projects, user must click on corresponding CheckBoxes and then on an action button.
 
@@ -42,3 +43,11 @@ Authorization in the version control system will be implemented via open auth. T
 
 ### Implementation iterations
 
+Tasks of the first iteration:
+1. Synchronize repositories (all or selected). Pull the branch that is currently selected. Selected branch shall be visible to user.
+2. Have the ability to change between schemas - change multiple repositories to 9.0 or 10.0 (master). Synchronization is considered a separate operation.
+3. Have an autostash feature - be able to stash changes for current branch before pulling.
+4. Create and use local configuration file.
+5. Automatically prune branches that do not have remote branches.
+6. Have the ability to manually add repositories for synchronization from FossConnect project.
+7. Have some short meaningfull output in the UI and detailed logs in a file. There should be a dedicated 'View logs' button to open log folder for convinience.
