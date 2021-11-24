@@ -36,6 +36,7 @@ To select the necessary branch there will be a ComboBox with an available select
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/branchselection.png)
 Also, there will be a ComboBox for build mode.
 For each operation, buttons are provided to perform it. If action is required to be performed on multiple projects, user must click on corresponding CheckBoxes and then on an action button.
+![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/choosing.PNG)
 
 ### Information security
 
