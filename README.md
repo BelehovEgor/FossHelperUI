@@ -32,11 +32,13 @@ The configuration file mentioned earlier will be local in the first iteration, i
 All information will be presented in a table. One line in it corresponds to one project. 
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/fulltable.png)
 
-To select the necessary branch there will be a ComboBox with an available selection. After branch selection, SourceExplorer will check if the branch is presented locally. If not - it will perform a pull operation. 
+To select the necessary branch there will be a ComboBox with an available selection. 
+After branch selection, SourceExplorer will check if the branch is presented locally. 
+If not - it will perform a pull operation.
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/branchselection.png)
 Also, there will be a ComboBox for build mode. <br />
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/buildmode.png)  <br />
-For each operation, buttons are provided to perform it. If action is required to be performed on multiple projects, user must click on corresponding CheckBoxes and then on an action button.
+For each operation, buttons are provided to perform it. If action is required to be performed on multiple projects, user must click on corresponding CheckBoxes and then on an action button in header of the table.
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/choosing.PNG)
 
 ### Information security
