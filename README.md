@@ -30,7 +30,7 @@ This will be a desktop application developed using WPF targeting .NET 6. It is p
 The configuration file mentioned earlier will be local in the first iteration, in the future it is planned to load it from a remote repository. 
 
 All information will be presented in a table. One line in it corresponds to one project. 
-![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/image/fulltable.png)
+![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/fulltable.png)
 
 To select the necessary branch there will be a ComboBox with an available selection. After branch selection, SourceExplorer will check if the branch is presented locally. If not - it will perform a pull operation. 
 Also, there will be a ComboBox for build mode.
