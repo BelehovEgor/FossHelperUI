@@ -36,7 +36,8 @@ Also, there will be a ComboBox for build mode. <br />
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/buildmodeselecting.png)  <br />
 For each operation, buttons are provided to perform it. If action is required to be performed on multiple projects, user must click on corresponding CheckBoxes and then on an action button in header of the table.
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/projectchoice.png)
-Special buttons are located on the menu bar at the top of the window.
+Special buttons are located on the menu bar at the top of the window. <br />
+Profiles will allow you to save selected branches and projects, i.e. it will allow you to quickly switch between selected settings. Profiles can be edited and new ones can be created. <br />
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/edit.png)
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/view.png)
 ### Information security

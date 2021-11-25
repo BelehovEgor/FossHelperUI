@@ -1,0 +1,12 @@
+C:\Users\Egor\source\repos\FossHelperUI\GitSupport\bin\Debug\net6.0\GitSupport.deps.json
+C:\Users\Egor\source\repos\FossHelperUI\GitSupport\bin\Debug\net6.0\GitSupport.dll
+C:\Users\Egor\source\repos\FossHelperUI\GitSupport\bin\Debug\net6.0\ref\GitSupport.dll
+C:\Users\Egor\source\repos\FossHelperUI\GitSupport\bin\Debug\net6.0\GitSupport.pdb
+C:\Users\Egor\source\repos\FossHelperUI\GitSupport\obj\Debug\net6.0\GitSupport.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\FossHelperUI\GitSupport\obj\Debug\net6.0\GitSupport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor\source\repos\FossHelperUI\GitSupport\obj\Debug\net6.0\GitSupport.AssemblyInfoInputs.cache
+C:\Users\Egor\source\repos\FossHelperUI\GitSupport\obj\Debug\net6.0\GitSupport.AssemblyInfo.cs
+C:\Users\Egor\source\repos\FossHelperUI\GitSupport\obj\Debug\net6.0\GitSupport.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\FossHelperUI\GitSupport\obj\Debug\net6.0\GitSupport.dll
+C:\Users\Egor\source\repos\FossHelperUI\GitSupport\obj\Debug\net6.0\ref\GitSupport.dll
+C:\Users\Egor\source\repos\FossHelperUI\GitSupport\obj\Debug\net6.0\GitSupport.pdb
