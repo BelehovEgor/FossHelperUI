@@ -38,9 +38,9 @@ Also, there will be a ComboBox for build mode. <br />
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/buildmode-f.png) <br />
 For each operation, buttons are provided to perform it. User must click on corresponding CheckBoxes. Hot keys help you select or deselect all. <br />
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/edit-f.png) <br />
+Information about projects type should be in yml file. There are for each project should be path to the folder and type (runnable or not). If the configuration does not contain information about any project, the build mode will not be available. <br />
 Before running projects application check info about them and if some of selected items will be not runnable, button will be disabled and there will be a tip for user. <br />
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/runerror-f.png) <br />
-Information about projects type should be in yml file. There are for each project should be path to the folder and type (runnable or not).  <br />
 Special buttons are located on the menu bar at the top of the window. <br />
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/settings-f.png) <br />
 Profiles will allow you to save selected branches and projects, i.e. it will allow you to quickly switch between selected settings. Profiles can be edited and new ones can be created. <br />
