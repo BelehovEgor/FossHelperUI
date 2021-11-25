@@ -30,7 +30,7 @@ The app configuration should be maintained in the dedicated DevOps repository (d
 This will be a desktop application developed using WPF targeting .NET 6. It is planned to use the libgit2shart nuget package to work with repositories because this library is time-tested and will allow you to perform all planned operations and expand their list in the future. List of commands that are planned to be used now are : branch, checkout, pull, stash.
 
 All information will be presented in the table. One line in it corresponds to one project.
-![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/window.png)
+![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/mainwindow.png)
 
 To select the necessary branch there will be a ComboBox with an available selection. 
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/selection.png)
