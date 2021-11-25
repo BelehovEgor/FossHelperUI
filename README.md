@@ -33,9 +33,9 @@ All information will be presented in the table. One line in it corresponds to on
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/window.png)
 
 To select the necessary branch there will be a ComboBox with an available selection. 
-![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/branchselecting.png)
+![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/selection.png)
 Also, there will be a ComboBox for build mode. <br />
-![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/buildmodeselecting.png)  <br />
+![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/buildmodeselecting.png)
 For each operation, buttons are provided to perform it. If action is required to be performed on multiple projects, user must click on corresponding CheckBoxes and then on an action button in header of the table.
 Special buttons are located on the menu bar at the top of the window. <br />
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/settings.png)
