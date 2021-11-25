@@ -12,7 +12,7 @@ The tool should be able to:
 
 1. When started, the application will pick up and display all git-repositories in the main git folder specified by the user. The user can select the main folder in Settings.
 2. Synchronize repositories (all or selected). Pull the branch that is currently selected. Selected branch shall be visible to user.
-3. Init feature: when requested, the application will download git repositories which are listed in the config file from the FossConnect DevOps.
+3. When requested, the application will download git repositories which are listed in the config file from the FossConnect DevOps.
 If Initialization is requested again, the application will download repositories that are missing in the main git folder.
 4. Have an autostash feature - be able to stash changes for current branch before pulling.
 5. App configuration file should contain the list of repositories that should be downloaded during the initialization, paths to .csproj files to use for Build and paths to .exe files to use for Run.
