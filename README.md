@@ -1,8 +1,6 @@
 # GitRunner
-Last updated by | Egor Belekhov | Nov 24, 2021 at 10:03 AM GMT+3
+Last updated by | Egor Belekhov | Nov 25, 2021 at 6:07 PM GMT+3
 ***
-
-# GitRunner
 
 ## Overview
 
