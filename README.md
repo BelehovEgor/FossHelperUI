@@ -12,8 +12,8 @@ We need an application that will reduce the time and simplify the work with git.
 
 The tool should be able to:
 
-1.When started, the application will pick up and display all git-repositories in the main git folder specified by the user. The user can select the main folder in Settings.
-2.Synchronize repositories (all or selected). Pull the branch that is currently selected. Selected branch shall be visible to user.
+1. When started, the application will pick up and display all git-repositories in the main git folder specified by the user. The user can select the main folder in Settings.
+2. Synchronize repositories (all or selected). Pull the branch that is currently selected. Selected branch shall be visible to user.
 3. Have an autostash feature - be able to stash changes for current branch before pulling.
 4. App configuration file should contain the list of repositories that should be downloaded during the initialization, paths to .csproj files to use for Build and paths to .exe files to use for Run.
 The app configuration should be maintained in the dedicated DevOps repository (during the first implementation iteration it can be stored locally)
