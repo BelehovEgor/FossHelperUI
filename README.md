@@ -37,8 +37,8 @@ To select the necessary branch there will be a ComboBox with an available select
 Also, there will be a ComboBox for build mode. <br />
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/buildmode-f.png) <br />
 For each operation, buttons are provided to perform it. User must click on corresponding CheckBoxes. Hot keys help you select or deselect all. <br />
-Special buttons are located on the menu bar at the top of the window. <br />
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/edit-f.png) <br />
+Special buttons are located on the menu bar at the top of the window. <br />
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/settings-f.png) <br />
 Profiles will allow you to save selected branches and projects, i.e. it will allow you to quickly switch between selected settings. Profiles can be edited and new ones can be created. <br />
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/profiles-f.png) <br />
