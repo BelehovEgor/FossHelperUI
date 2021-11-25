@@ -30,20 +30,20 @@ The app configuration should be maintained in the dedicated DevOps repository (d
 This will be a desktop application developed using WPF targeting .NET 6. It is planned to use the libgit2shart nuget package to work with repositories because this library is time-tested and will allow you to perform all planned operations and expand their list in the future. List of commands that are planned to be used now are : branch, checkout, pull, stash.
 
 All information will be presented in the table. One line in it corresponds to one project.
-![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/mainwindow-f.png)
+![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/mainwindow-f.png) <br />
 
 To select the necessary branch there will be a ComboBox with an available selection. 
-![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/branchselection-f.png)
+![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/branchselecting-f.png) <br />
 Also, there will be a ComboBox for build mode. <br />
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/buildmode-f.png) <br />
-For each operation, buttons are provided to perform it. If action is required to be performed on multiple projects, user must click on corresponding CheckBoxes and then on an action button in header of the table. Hot keys help you select or deselect all.
-![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/edit-f.png)
+For each operation, buttons are provided to perform it. User must click on corresponding CheckBoxes. Hot keys help you select or deselect all. <br />
 Special buttons are located on the menu bar at the top of the window. <br />
-![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/settings-f.png)
+![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/edit-f.png) <br />
+![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/settings-f.png) <br />
 Profiles will allow you to save selected branches and projects, i.e. it will allow you to quickly switch between selected settings. Profiles can be edited and new ones can be created. <br />
-![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/profiles-f.png)
+![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/profiles-f.png) <br />
 Before running projects application check info about them and if some of selected items will be not runnable, button will be disabled and there will be a tip for user.
-![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/runerror-f.png)
+![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/runerror-f.png) <br />
 Information about projects type should be in yml file. There are for each project should be path to the folder and type (runnuble or not).
 
 ### Information security
