@@ -38,8 +38,8 @@ For each operation, buttons are provided to perform it. If action is required to
 ![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/projectchoice.png)
 Special buttons are located on the menu bar at the top of the window. <br />
 Profiles will allow you to save selected branches and projects, i.e. it will allow you to quickly switch between selected settings. Profiles can be edited and new ones can be created. <br />
-![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/editmenu.png)
-![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/viewmenu.png)
+![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/edit_menu.png)
+![Image alt](https://github.com/BelehovEgor/FossHelperUI/raw/design/Images/view_menu.png)
 ### Information security
 
 Authorization in the version control system will be implemented via open auth. The user will be logged into the git on the local device.
