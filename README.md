@@ -15,8 +15,7 @@ The tool should be able to:
 3. When requested, the application will download git repositories which are listed in the config file from the FossConnect DevOps.
 If Initialization is requested again, the application will download repositories that are missing in the main git folder.
 4. Have an autostash feature - be able to stash changes for current branch before pulling.
-5. App configuration file should contain the list of repositories that should be downloaded during the initialization, paths to .csproj files to use for Build and paths to .exe files to use for Run.
-The app configuration should be maintained in the dedicated DevOps repository (during the first implementation iteration it can be stored locally)
+5. App configuration file should contain the list of repositories that should be downloaded during the initialization, paths to .csproj files to use for Build and type of project (runnable or not). The app configuration should be maintained in the dedicated DevOps repository (during the first implementation iteration it can be stored locally).
 6. Automatically prune branches that do not have remote branches.
 7. Have the ability to manually add repositories for synchronization from FossConnect project.
 8. Have some short meaningfull output in the UI and detailed logs in a file. There should be a dedicated buttons: 'View logs' to open log folder for convinience, 'View config' to open folder with it.
