@@ -47,7 +47,7 @@ Profiles will allow you to save selected branches and projects, i.e. it will all
 
 ### Information security
 
-Authorization in the version control system will be implemented via open auth. The user will be logged into the git on the local device.
+To work successfully with the application, the user must have an entry in Windows Credentials Manager with a login and password from the remote repository. This way, access to the remote repository will be provided and at the same time there will be no need to enter the password several times and the application itself will work only with its hash.
 
 ### Implementation iterations
 
